@@ -1,0 +1,10 @@
+--- packages ---
+browserify
+uniq
+pdfkit
+canvas
+express
+
+
+--- bundling ---
+browserify main.js -o bundle.js
